@@ -224,7 +224,7 @@ body{
 
 .main .item12{
 
-    background: url(/img2.jpg);
+    background: url(./img2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
@@ -270,7 +270,7 @@ body{
 
 .sidebar .item1{
     grid-column: 1/3;
-    background: url(/img1.jpg);
+    background: url(./img1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
